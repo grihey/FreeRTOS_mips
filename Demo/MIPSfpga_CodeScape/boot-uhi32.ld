@@ -81,7 +81,7 @@ SECTIONS
     . = ALIGN(8);
   } = 0
 
-  .text (__excpt_ebase + 0x200) : {
+  .text (__excpt_ebase + 0x218) : {
      /* _ftext = . ; */
     /* PROVIDE (eprol  =  .); */
     *(.text)
