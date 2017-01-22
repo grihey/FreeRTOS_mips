@@ -325,8 +325,8 @@ static void prvTaskExitError( void )
 
 void _mips_interrupt(void* ctx, int reason)
 {
-    *(int*)0xbf800000= 0xACDC;
-    while(1);
+    // *(int*)0xbf800000= 0xACDC;
+    // while(1);
 
     vPortIncrementTick();
 }
