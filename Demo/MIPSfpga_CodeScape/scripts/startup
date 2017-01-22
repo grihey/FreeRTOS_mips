@@ -1,0 +1,6 @@
+target remote localhost:3333
+set endian little
+monitor reset halt
+monitor halt
+load
+#monitor reset run

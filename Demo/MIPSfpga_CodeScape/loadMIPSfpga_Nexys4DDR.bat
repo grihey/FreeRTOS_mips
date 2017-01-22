@@ -1,0 +1,2 @@
+cd C:\Users\stud\Desktop\Romanov\MIPSfpga-getting-started-package-v1-1\MIPSfpga-getting-started-package\Codescape\ExamplePrograms\Scripts\Nexys4_DDR
+loadMIPSfpga.bat C:\Users\stud\Desktop\Romanov\20160919_MIPSfpga_FreeRTOSv9_PORT\MIPSfpga_FreeRTOSv9_PORT\Demo\MIPSfpga_CodeScape\build\
